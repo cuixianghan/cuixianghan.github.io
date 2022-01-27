@@ -1,41 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<font face = ""/>
-<title>Bottom Right</title>
-</head>
-<br/>
-<h1>1 Me</h1>
-<hr width = 775px align = "left"/> 
-<p> <font size = "4.5">
-<a href = "https://www.ustc.edu.cn" target="_blank" style= "color:blue; text-decoration:none;" >
-University of Science and Technology of China.</font></p>
+111
+111
 
-<h1>Education</h1>
-<hr width = 775px align = "left"/> 
-<img src = "USTC_Logo.jpg", width = 100px height = 100px style = "float:left"/>
-<div style = "float:left">
-  <font size = "1"><br/></font><font size = "5" face = "Times New Roman">&ensp;
-University of Science and Technology of China, Hefei, China<br/></font> 
-<font size = "4.5">&ensp;&ensp;August 2014 - July 2019<br/>&ensp;&ensp;B.S. in Applied Physics</font></div>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-<h1>Skills</h1>
-<hr width = 775px align = "left"/> 
-<p> <font size = "4.5">C/C++, MATLAB, Python, Java, Mathematica, HTML; 
-Linux, Origin Lab, Qt Creator (GUI), LaTeX;<br/>Point Cloud Library(PCL), Caffe(Machine Learning), Spyder; 
-Numpy, Scikit-learn/image, Matplotlib</font></p>
-
-<h1>Projects</h1>
-<hr width = 775px align = "left"/> 
-<p> <font size = "4.5">Waiting for updated.</font></p>
-
-<body>
-</body>
-</html>
+111
