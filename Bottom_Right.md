@@ -6,9 +6,9 @@
 <title>Bottom Right</title>
 </head>
 <br/>
-<h1>About Me</h1>
+<h1>1 Me</h1>
 <hr width = 775px align = "left"/> 
-<p> <font size = "4.5">I am currently a last year undergraduate in 
+<p> <font size = "4.5">
 <a href = "https://www.ustc.edu.cn" target="_blank" style= "color:blue; text-decoration:none;" >
 University of Science and Technology of China.</font></p>
 
